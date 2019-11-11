@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% load staticfiles %}
+
+<div style="text-align: center">
+<video width='380' height='280' controls>
+<source src="{% static 'Tarot Shane koyzcan.mp4' type='video/mp4' %}">
+You browser does not support the video tag.
+</video>
+<h4> A poem by shane koyzcan <h4>
+
+{% endblock %}
+
+
