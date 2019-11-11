@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"context"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "urls.py",
+			"settings":
+			{
+				"buffer_size": 1184,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/newdir/webdesign",
+		"/C/newdir/webdesign/contact",
+		"/C/newdir/webdesign/contact/templates",
+		"/C/newdir/webdesign/contact/templates/contact",
+		"/C/newdir/webdesign/templates",
+		"/C/newdir/webdesign/webdesign"
+	],
+	"file_history":
+	[
+		"/C/newdir/webdesign/contact/forms.py",
+		"/C/newdir/webdesign/contact/templates/contact/form.html",
+		"/C/newdir/webdesign/contact/views.py",
+		"/C/newdir/webdesign/contact/models.py",
+		"/C/newdir/webdesign/templates/contact.html",
+		"/C/newdir/webdesign/contact/admin.py",
+		"/C/newdir/webdesign/pages/views.py",
+		"/C/newdir/webdesign/posts/templates/posts/snippets/post.html",
+		"/C/newdir/webdesign/posts/templates/posts/list.html",
+		"/C/newdir/webdesign/posts/views.py",
+		"/C/newdir/webdesign/webdesign/settings.py",
+		"/C/newdir/webdesign/posts/models.py",
+		"/C/newdir/webdesign/posts/templates/posts/detail.html",
+		"/C/newdir/webdesign/webdesign/urls.py",
+		"/C/newdir/webdesign/templates/base.html",
+		"/C/newdir/webdesign/posts/admin.py",
+		"/C/newdir/webdesign/pages/models.py",
+		"/C/newdir/webdesign/posts/templates/posts/Snippets/post.html",
+		"/C/newdir/webdesign/templates/navbar.html",
+		"/C/newdir/webdesign/posts/templates",
+		"/C/newdir/webdesign/posts/list.html",
+		"/C/newdir/webdesign/posts/details",
+		"/C/newdir/webdesign/templates/home.html",
+		"/C/newdir/webdesign/templates/about.html",
+		"/C/newdir/webdesign/landings/views.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"]",
+			")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1182,
+								1182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

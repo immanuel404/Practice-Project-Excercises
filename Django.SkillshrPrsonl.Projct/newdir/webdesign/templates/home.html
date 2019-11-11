@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+{% for item in page_list %}
+    <li>{{ item }}</li>
+    {% endfor %}
+    
+{% if dictionary %}
+{{dictionary}}
+{% endif %}
+
+{% endblock %}
