@@ -1,3 +1,5 @@
 In this repository are:
-# Practice-Project-Excercises
-# Data Science and Web development work
+# PROJECT-BASED-EXCERCISES
+Data Science: DATA VISUALISATION & ANALYSIS
+                     &
+Web Development: CLEAN UI BLOG WEB-PAGES WITH MULTIPLE USER ADMIN WITH USING DJANGO DEV.FRAMEWORK
